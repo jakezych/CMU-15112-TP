@@ -1,0 +1,104 @@
+Adam,Smith
+Anatomy,0,0
+Word Play,0,1
+Science,0,0
+Shakespeare,0,0
+Sports,0,0
+Technology,0,0
+Religion,0,0
+Theater,0,0
+Literature,0,0
+Television,0,0
+History,0,0
+Geography,0,0
+Pop Culture,0,0
+Music,0,0
+Movies,0,0
+Math,0,0
+Games,0,0
+Food and Drink,0,0
+Business and Economics,0,0
+Government and Politics,0,0
+Mythology,0,0
+Transportation,0,0
+Animals,0,0
+Misc.,0,0
+0
+Test,123
+Anatomy,2,5
+Word Play,9,19
+Science,3,4
+Shakespeare,3,12
+Sports,1,5
+Technology,3,10
+Religion,1,6
+Theater,1,4
+Literature,2,5
+Television,5,10
+History,5,8
+Geography,12,15
+Pop Culture,2,5
+Music,6,10
+Movies,3,9
+Math,1,3
+Games,1,4
+Food and Drink,1,3
+Business and Economics,3,5
+Government and Politics,6,9
+Mythology,2,5
+Transportation,2,6
+Animals,3,7
+Misc.,9,24
+1200
+Jake,Zych
+Anatomy,2,3
+Word Play,7,11
+Science,4,6
+Shakespeare,1,3
+Sports,0,2
+Technology,2,6
+Religion,1,2
+Theater,3,6
+Literature,1,4
+Television,2,4
+History,5,8
+Geography,7,9
+Pop Culture,1,4
+Music,1,7
+Movies,2,6
+Math,5,5
+Games,2,4
+Food and Drink,1,3
+Business and Economics,2,5
+Government and Politics,2,4
+Mythology,1,5
+Transportation,2,3
+Animals,2,5
+Misc.,5,11
+600
+Anatomy,a213
+Anatomy,0,0
+Word Play,0,0
+Science,0,0
+Shakespeare,0,0
+Sports,0,0
+Technology,0,0
+Religion,0,0
+Theater,0,0
+Literature,0,0
+Television,0,0
+History,0,0
+Geography,0,0
+Pop Culture,0,0
+Music,0,0
+Movies,0,0
+Math,0,0
+Games,0,0
+Food and Drink,0,0
+Business and Economics,0,0
+Government and Politics,0,0
+Mythology,0,0
+Transportation,0,0
+Animals,0,0
+Misc.,0,0
+0
